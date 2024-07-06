@@ -1,0 +1,17 @@
+
+ 	 	test
+
+test test spec char /  	, / 	, /
+
+русские буквы
+
+test	test
+
+test test
+
+test test next 3 space кириллица
+
+
+
+test test next tab
+
